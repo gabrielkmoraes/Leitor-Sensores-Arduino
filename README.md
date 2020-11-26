@@ -132,7 +132,10 @@ Isso só é possível com a biblioteca [jSerialComm](https://fazecast.github.io/
 De acordo com os desenvolvedores da biblioteca:
 
 ```
-jSerialComm é uma biblioteca Java projetada para fornecer uma maneira independente de plataforma para acessar portas seriais padrões sem exigir bibliotecas externas, código nativo, ou qualquer outra ferramenta. Ele é uma alternativa ao RxTx e à (obsoleta) Java Communications API, com maior facilidade de uso, suporte aprimorado para timeouts e a habilidade de abrir multiplas portas simultaneamente
+jSerialComm é uma biblioteca Java projetada para fornecer uma maneira independente de plataforma para acessar 
+portas seriais padrões sem exigir bibliotecas externas, código nativo, ou qualquer outra ferramenta. 
+Ele é uma alternativa ao RxTx e à (obsoleta) Java Communications API, com maior facilidade de uso, suporte aprimorado
+para timeouts e a habilidade de abrir multiplas portas simultaneamente
 
 ```
 ## Autores
