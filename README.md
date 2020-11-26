@@ -143,12 +143,14 @@ jSerialComm é uma biblioteca Java projetada para fornecer uma maneira independe
 ## Futuras implementações
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--[] Implementar um sistema de edição para o usuário declarar quantos sensores está usando
--[] Arrumar o sistema de gravação de arquivos (não consegue **substituir** o arquivo após o primeiro uso do programa)
--[] Adicionar um botão "Editar INFO" para o usuário poder editar sem a necessidade de acessar o código
-Limite máximo de 3 futuras implementação. Motivo: manter a sanidade mental e não enlouquecer achando apenas defeitos :)
+- [ ] Implementar um sistema de edição para o usuário declarar quantos sensores está usando
+- [ ] Arrumar o sistema de gravação de arquivos (não consegue **substituir** o arquivo após o primeiro uso do programa)
+- [ ] Adicionar um botão "Editar INFO" para o usuário poder editar sem a necessidade de acessar o código
+
+**Limite máximo de 3 futuras implementação. Motivo: manter a sanidade mental e não enlouquecer achando apenas defeitos :)**
 ##### No README
--[] Adicionar neste README uma possível aplicação para ilustrar melhor o uso deste programa
+
+- [ ] Adicionar uma possível aplicação para ilustrar melhor o uso deste programa
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Agradecimentos
